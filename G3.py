@@ -1,3 +1,5 @@
+#จีรศักดิ์ ชำนิกุล 316
+
 import threading
 import time
 import random
